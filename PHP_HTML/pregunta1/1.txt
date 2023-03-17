@@ -1,0 +1,8 @@
+1. ¿Qué es una API?
+una API es una forma en la que las aplicaciones de todo tipo puedan comunicarse 
+mandando datos y consiguiendolos esta actua como intermediaria entre aplicaciones 
+permitiendo que una aplicacion consuma datos o funcionalidades de una manera 
+estandar y son muy importantes ya que a las empresas les ahorra mucho tiempo y dinero
+,ya que por ejemplo si estoy haciendo una aplicacion web de ecomerce no tengo que hacer 
+la pasarela de pagos desde cero puedo conectarme a la api por ejemplo de Paypal y ahorrarme 
+mucho tiempo y dinero ya que no tendria que crearla desde cero 

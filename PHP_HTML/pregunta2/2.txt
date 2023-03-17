@@ -1,0 +1,10 @@
+2. ¿Qué es DOCTYPE HTML?
+
+hay varias versiones de HTML entonces para que el navegador sepa
+que version de HTML estamos usando ponemos la version mas reciente que 
+es HTML5 y es :
+
+<!DOCTYPE html> 
+
+y con esto se le dice al navegador que utilizaremos esa version, si en 
+caso no ponemos esto el navegador puede que no interprete el codigo correctamente

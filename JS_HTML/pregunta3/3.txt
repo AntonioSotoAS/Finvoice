@@ -1,0 +1,13 @@
+3. ¿Qué significa HTML, y cuál es su estructura básica?
+
+HTML significa HyperText Markup Language y la estructura basica es :
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    
+</body>
+</html>
